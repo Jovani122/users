@@ -1,0 +1,19 @@
+{
+  "utilisateurs": [
+    {
+      "nom": "Jean",
+      "age": 30,
+      "ville": "Paris"
+    },
+    {
+      "nom": "Marie",
+      "age": 25,
+      "ville": "Lyon"
+    },
+    {
+      "nom": "Pierre",
+      "age": 35,
+      "ville": "Marseille"
+    }
+  ]
+}
